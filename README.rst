@@ -4,6 +4,14 @@ sol
 simple linux conSOLe written in c using the linux
 framebuffer.
 
+Build
+-----
+
+::
+
+    make
+    build/sol
+
 ------------------------------------------------------------
 
 This file is part of sol (simple linux conSOLe)
